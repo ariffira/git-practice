@@ -1,5 +1,6 @@
 import './App.css';
 import Arif from './components/Arif';
+import Jose from './components/Jose';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Github Team-work practice for fbw41-1</h1>
         <Arif/>
+        <Jose/>
       </header>
     </div>
   );
