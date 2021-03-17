@@ -9,4 +9,4 @@ const Jose = () => {
     )
 }
 
-export default Jose
+export default Jose;
