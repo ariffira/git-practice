@@ -1,8 +1,6 @@
 import React from 'react'
 
-
-
-export const Mohamed = () => {
+const Mohamed = () => {
     return (
         <div>
             <h1> Iam Mohamed</h1>
@@ -11,3 +9,4 @@ export const Mohamed = () => {
     )
 }
 
+export default Mohamed;
