@@ -9,7 +9,7 @@ import Dries from './components/Dries';
 import Jeremiah from './components/Jeremiah';
 import MetalRocks from './components/MetalRocks';
 import Mohamed from './components/Mohamed';
-import Murat from './components/Murat';
+import Mgurat from './components/Murat';
 import Nico from './components/nico';
 import Pietro from './components/Pietro';
 import Rodri from './components/Rodri';
